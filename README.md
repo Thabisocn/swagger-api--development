@@ -12,5 +12,7 @@
 
 
 
+# Initial Vunerabilities
 
+- Our swagger creation file seems to be to be intially built with vulnerabilites so looking forward to building and fixing intial build vulnerabilites. 
 
