@@ -1,4 +1,3 @@
-# Skeleton project for Swagger
 # swagger-api--development using node.js
 
 # Intro
